@@ -1,0 +1,19 @@
+/node_modules/
+/coverage/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.prettierrc
+# Local History for Visual Studio Code
+.history/
+user.js
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/e2e/
+/test-examples/
+package-lock.json
+.png
